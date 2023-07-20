@@ -15,5 +15,4 @@ def decode(message)
   morse_code[message] || '?'
 end
 
-
 puts decode('.-')
