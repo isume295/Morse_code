@@ -10,7 +10,7 @@
 <div align="center">
   
   <br/>
-<h1 align="center">BookStore list</h1>
+<h1 align="center">Mores code decoder app</h1>
 </div>
 
 
