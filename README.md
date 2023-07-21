@@ -96,7 +96,7 @@ Example commands:
 ```sh
   cd my-folder
   git clone git@github.com:isume295/Morse_code.git
-
+```
 using Ubuntu:
 
 ```sh
